@@ -4,7 +4,9 @@
 <h3 align="center" style="padding: 0 225px 0 225px;">A passionate student of Mobile and Smart Technologies, 
      dedicated to transforming creative ideas into reality through web, mobile, 
      and IoT development for enhanced user engagement and experience.</h3>
+     
 ---
+
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
