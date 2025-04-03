@@ -12,6 +12,17 @@
 
 <br/>
 
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AcousticDevops/AcousticDevops/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AcousticDevops/AcousticDevops/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AcousticDevops/AcousticDevops/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AcousticDevops&theme=neon&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=AcousticDevops&theme=neon&hide_border=false)<br/><br/>
