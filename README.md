@@ -17,4 +17,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AcousticDevops&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=If%20you%20want%20to%20find%20the%20secrets%20of%20the%20universe,%20think%20in%20terms%20of%20energy,%20frequency,%20and%20vibration.&author=Nikola%20Tesla)
+
+<br/>
+<hr>
+<p><strong>&copy; 2025 Khalick. All rights reserved.</strong></p>
 </div>
