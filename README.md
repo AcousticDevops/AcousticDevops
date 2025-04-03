@@ -7,13 +7,7 @@
      and IoT development for enhanced user engagement and experience.</h3>
 
 # 💻 Tech Stack:
-
-<p align="center">
-  <strong style="font-size: 240px;">Front End:</strong>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills">
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
