@@ -8,7 +8,7 @@
 
 # 💻 Tech Stack:
 
-<p align="center" style="display: inline-flex; align-items: center;">
+<p align="center">
   <strong>Front End:</strong>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills">
