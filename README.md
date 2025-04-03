@@ -7,8 +7,8 @@
      and IoT development for enhanced user engagement and experience.</h3>
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,,py,,mysql,mongodb,,git,github)
-![My Skills](https://skillicons.dev/icons?i=figma,,arduino,dart,django,firebase,flutter,kotlin,nodejs,raspberrypi,vscode)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,,py,dart,,mysql,mongodb,,git,github)
+![My Skills](https://skillicons.dev/icons?i=figma,,arduino,,django,firebase,flutter,kotlin,nodejs,raspberrypi,vscode)
 
 
 # 📊 GitHub Stats:
