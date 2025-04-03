@@ -7,12 +7,6 @@
      dedicated to transforming creative ideas into reality through web, mobile, 
      and IoT development for enhanced user engagement and experience.</h3>
 
-<p align="center" style="padding: 50px 0;">
-     <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=acousticdevops&theme=dark_lover&margin-w=30&column=4&no-bg=true&no-frame=true" alt="acousticdevops" />
-     </a>
-</p>
-
 <h3 align="left">Current Focus:</h3>
 
 <p align="left">
