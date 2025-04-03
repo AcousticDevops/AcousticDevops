@@ -1,3 +1,3 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Atma&weight=900&size=54&pause=1000&color=33F7A7&center=true&vCenter=true&width=1000&height=200&lines=Hi%2C+I%60m+Khalick;A+Web+Developer;Looking+Into+Mobile+Development;Interested+In+IOT" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Atma&weight=900&size=54&duration=1&pause=1000&color=33F7A7&center=true&vCenter=true&repeat=false&width=932&height=1280&lines=---------------------------------------------------" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Atma&weight=000&size=54&duration=1&pause=1000&color=33F7A7&center=true&vCenter=true&repeat=false&width=932&height=12&lines=---------------------------------------------------" alt="Typing SVG" /></a>
