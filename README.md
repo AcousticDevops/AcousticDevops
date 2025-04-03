@@ -8,7 +8,7 @@
 
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,,py,dart,,mysql,mongodb,,git,github)
-![My Skills](https://skillicons.dev/icons?i=figma,,arduino,,django,firebase,flutter,kotlin,nodejs,raspberrypi,vscode)
+![My Skills](https://skillicons.dev/icons?i=flutter,django,,arduino,raspberrypi,,vscode,figma)
 
 
 # 📊 GitHub Stats:
