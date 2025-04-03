@@ -6,8 +6,8 @@
      dedicated to transforming creative ideas into reality through web, mobile, 
      and IoT development for enhanced user engagement and experience.</h3>
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+# 💻 Front End Stack:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
