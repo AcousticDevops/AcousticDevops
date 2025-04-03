@@ -9,7 +9,7 @@
 # 💻 Tech Stack:
 <div align="left">
      <h2>Front End :</h2>
-     [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+     [[My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </div>
 
 
