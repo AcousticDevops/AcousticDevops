@@ -1,6 +1,5 @@
 <div align="center">
 
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Khalick</h1>
 <h3 align="center" style="padding: 0 225px 0 225px;">A passionate student of Mobile and Smart Technologies, 
      dedicated to transforming creative ideas into reality through web, mobile, 
