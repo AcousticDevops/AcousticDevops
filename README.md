@@ -16,5 +16,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AcousticDevops&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AcousticDevops&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Keep%20pushing%20forward)
 </div>
