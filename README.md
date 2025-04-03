@@ -8,8 +8,9 @@
 
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,,py,dart,,mysql,mongodb,,git,github)
-![My Skills](https://skillicons.dev/icons?i=flutter,django,,arduino,raspberrypi,,vscode,figma)<br/>
+![My Skills](https://skillicons.dev/icons?i=flutter,django,,arduino,raspberrypi,,vscode,figma)
 
+<br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AcousticDevops&theme=neon&hide_border=false&include_all_commits=true&count_private=false)
