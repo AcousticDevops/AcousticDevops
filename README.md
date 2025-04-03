@@ -31,24 +31,20 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td>
-      <h3>📊 GitHub Stats</h3>
-      ![](https://github-readme-stats.vercel.app/api?username=AcousticDevops&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-      ![](https://nirzak-streak-stats.vercel.app/?user=AcousticDevops&theme=neon&hide_border=false)<br/>
-      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AcousticDevops&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-    </td>
-    <td>
-      <h3>✍️ Random Dev Quote</h3>
-      ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-    </td>
-    <td>
-      <h3>🔝 Top Contributed Repo</h3>
-      ![](https://github-contributor-stats.vercel.app/api?username=AcousticDevops&limit=5&theme=neon&combine_all_yearly_contributions=true)
-    </td>
-  </tr>
-</table>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AcousticDevops&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AcousticDevops&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AcousticDevops&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AcousticDevops&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
 
