@@ -1,12 +1,10 @@
 <div align="center">
 
 # 💫 About Me:
-🔭 I’m currently working on  
-👯 I’m looking to collaborate on  
-🤝 I’m looking for help with  
-🌱 I’m currently learning  
-💬 Ask me about  
-⚡ Fun fact
+<h1 align="center">Hi 👋, I'm Khalick</h1>
+<h3 align="center" style="padding: 0 225px 0 225px;">A passionate student of Mobile and Smart Technologies, 
+     dedicated to transforming creative ideas into reality through web, mobile, 
+     and IoT development for enhanced user engagement and experience.</h3>
 
 ---
 
