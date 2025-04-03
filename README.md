@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Khalick</h1>
 
-<h3 align="center" style="padding: 0 225px 0 225px;">A passionate student of Mobile and Smart Technologies, 
+<h3 align="center" style="padding: 0 225px 0 225px;">A student of Mobile and Smart Technologies, 
      dedicated to transforming creative ideas into reality through web, mobile, 
      and IoT development for enhanced user engagement and experience.</h3>
 
