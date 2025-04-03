@@ -7,6 +7,7 @@
      and IoT development for enhanced user engagement and experience.</h3>
 
 # 💻 Tech Stack:
+<h2>Front End</h2>
 
 
 # 📊 GitHub Stats:
