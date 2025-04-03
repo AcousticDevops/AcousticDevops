@@ -7,8 +7,6 @@
      dedicated to transforming creative ideas into reality through web, mobile, 
      and IoT development for enhanced user engagement and experience.</h3>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 <h3 align="left">Current Focus:</h3>
 
 <p align="left">
