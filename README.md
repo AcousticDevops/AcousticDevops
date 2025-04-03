@@ -7,7 +7,7 @@
      and IoT development for enhanced user engagement and experience.</h3>
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,,py,,mysql,mongodb)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,,py,,mysql,mongodb,,git,github)
 
 
 # 📊 GitHub Stats:
